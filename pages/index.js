@@ -23,7 +23,7 @@ export default function Home()
 				className="mx-auto bg-white p-3 rounded rounded-3 shadow-sm"
 			>
 				{
-					me.map((x) => <PostOwner
+					me.map((x) => <me
 						name={x.username}
 						img={x.userImagePath}
 						text={x.postText}
