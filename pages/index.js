@@ -1,4 +1,4 @@
-import Comment from "../components/Comment";
+
 import PostOwner from "../components/PostOwner";
 import { comments } from "../libs/comments";
 
