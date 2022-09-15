@@ -5,7 +5,7 @@ import { comments } from "../libs/comments";
 export default function Home()
 {
 	const me = [{
-		username: "Switch Charuekpoonpol 640610638",
+		username: "Switch Charuekpoonpol 640610672",
 		userImagePath: "/profileImages/me.jpg",
 		postText: "อยากกินขนมจีนน้ำเงี้ยว #261207",
 		likeNum: 888,
